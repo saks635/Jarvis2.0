@@ -1,0 +1,11 @@
+speechrecognition
+pyttsx3
+pyaudio
+psutil
+pyautogui
+googletrans==4.0.0-rc1
+requests
+python-dotenv
+openai
+transformers
+torch
